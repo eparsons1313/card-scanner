@@ -1,1 +1,1 @@
-# cerd-scanner
+# card-scanner
